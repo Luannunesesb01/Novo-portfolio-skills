@@ -16,3 +16,5 @@
 ![mysql](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/04470476-006a-4846-b7e9-6055d8455f40)
 ![mongodb](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/9b8aa92c-52ed-4634-b7a5-13c4f94798b9)
 ![nodejs](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/af8d2ce5-0150-41c2-ba46-fd4ccb2288b3)
+![react native](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/8c16edf5-d0f2-49d0-8e6a-a8ccbcc7e7eb)
+![sqlite](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/e51cc109-cdf9-4142-959f-458f75ed12b2)
