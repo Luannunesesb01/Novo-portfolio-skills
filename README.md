@@ -10,3 +10,7 @@
 ![bootstrap](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/72981be5-616e-47e0-a556-e585cbfdab68)
 ![html](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/2ffcd9e2-5fab-42cd-9237-c2a3d3fe6306)
 ![css](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/8b9bedbe-6ed5-41a3-87ac-ad1d0ddc397a)
+![php](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/50221564-1895-4db3-af64-5f49fcbe9ea9)
+![laravel](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/f634f01e-c744-40a3-980f-c7016d717da9)
+![angular](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/efb36096-4e16-4ea0-bfa4-f1ef476c0b98)
+![mysql](https://github.com/Luannunesesb01/Novo-portfolio-skills/assets/116287208/04470476-006a-4846-b7e9-6055d8455f40)
